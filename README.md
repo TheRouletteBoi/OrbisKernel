@@ -3,7 +3,7 @@ A sub-module for PS4 Kernel Functions. Precompiled binaries from [StubMaker](htt
 
 # Usage
 
-This is to be used as a sub-module for your vsh project.
+This is to be used as a sub-module for your prx projects.
 
 Go to your project directory
 
