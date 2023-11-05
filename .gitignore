@@ -1,0 +1,41 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+.vscode
+.vs
+build/
+bin/
+bin-int/
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.sln
+*.vcxproj
+*.user
+*.filters
+
+!lib/libc/libc_stub.a
+!lib/libc/libc_stub_weak.a
+!lib/libc/libc_stub.lib
+!lib/libc/libc_stub_weak.lib
+
+*.prx
+*.lib
+*.map
+
+*.o
+*.obj
