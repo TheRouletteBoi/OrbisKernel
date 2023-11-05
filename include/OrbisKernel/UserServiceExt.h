@@ -4,7 +4,7 @@
 extern "C" {
 #endif
 
-	int sceUserServiceGetForegroundUser(int* user);
+    int sceUserServiceGetForegroundUser(int* user);
 
 #ifdef __cplusplus
 }

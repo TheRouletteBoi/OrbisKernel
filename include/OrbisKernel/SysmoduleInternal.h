@@ -6,8 +6,8 @@
 extern "C" {
 #endif
 
-	int sceSysmoduleLoadModuleInternal(uint32_t id);
-	int sceSysmoduleUnloadModuleInternal(uint32_t id);
+    int sceSysmoduleLoadModuleInternal(uint32_t id);
+    int sceSysmoduleUnloadModuleInternal(uint32_t id);
 
 #ifdef __cplusplus
 }

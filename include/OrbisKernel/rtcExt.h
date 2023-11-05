@@ -5,8 +5,8 @@
 extern "C" {
 #endif
 
-	int sceRtcSetCurrentTick(SceRtcTick* pTick);
-	int sceRtcSetCurrentNetworkTick(SceRtcTick* pTick);
+    int sceRtcSetCurrentTick(SceRtcTick* pTick);
+    int sceRtcSetCurrentNetworkTick(SceRtcTick* pTick);
 
 #ifdef __cplusplus
 }
